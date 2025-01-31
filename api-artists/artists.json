@@ -1,0 +1,46 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Foo Fighters",
+        "genre": "Rock",
+        "urlImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Glasto2023_%2865_of_468%29_%28cropped%29.jpg/1200px-Glasto2023_%2865_of_468%29_%28cropped%29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Michael Jackson",
+        "genre": "Pop",
+        "urlImg": "https://imagem.natelinha.uol.com.br/original/michael-jackson-dependencia-remedios_5756.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Emicida",
+        "genre": "Hip Hop",
+        "urlImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Emicida_Festival_Sensacional_2020_%28cropped%29.jpg/800px-Emicida_Festival_Sensacional_2020_%28cropped%29.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Chitãozinho e Xororó",
+        "genre": "Sertanejo",
+        "urlImg": "https://www.mgtradio.net/_next/image?url=https%3A%2F%2Fapi.mgtradio.net%2Ffiles%2Fimages%2Fartists%2Fmaster%2Fchitaozinho-xororo.jpg&w=750&q=75"
+      },
+      {
+        "id": 5,
+        "name": "Mc Coringa",
+        "genre": "Funk",
+        "urlImg": "https://contrateartistas.com.br/wp-content/uploads/2018/02/contratar-mc-koringa.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Arlindo Cruz",
+        "genre": "Samba",
+        "urlImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Arlindo_Cruz_em_2016.jpg/1200px-Arlindo_Cruz_em_2016.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Caetano Veloso",
+        "genre": "MPB",
+        "urlImg": "https://upload.wikimedia.org/wikipedia/commons/3/32/Caetano_Veloso_entrevista_Haddad_%C2%B7_23-06-2022_%C2%B7_S%C3%A3o_Paulo_%28SP%29_%2852433690124%29_%28cropped_2%29.jpg"
+      }
+    ]
+  }
